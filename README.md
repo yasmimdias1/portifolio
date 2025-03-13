@@ -7,6 +7,8 @@ Estrutura do Projeto<br/>
 
 imagens/: Pasta contendo as imagens utilizadas no projeto.<br/>
 
-Tecnologias Utilizadas: HTML e CSS
+Tecnologias Utilizadas: HTML e CSS.<br/>
+
+Projeto com responsividade.
 
 <a href="https://yasmimdias1.github.io/portifolio/">Acesse o projeto aqui</a>
